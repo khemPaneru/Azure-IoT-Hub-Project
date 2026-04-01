@@ -1,3 +1,40 @@
-🚀 Azure IoT Hub + Raspberry Pi Simulator (Blinking LED)
+# 🚀 Azure IoT Hub – IoT Device Project
 
-This project demonstrates how to connect and control an IoT device using Microsoft Azure IoT Hub. A Raspberry Pi simulator is used to simulate a real device, where an LED blinks after successful cloud connection
+## 🔹 Project Overview
+This project demonstrates how to create and configure an IoT Hub in Microsoft Azure and connect a simulated IoT device using a Raspberry Pi simulator.
+<img width="975" height="1115" alt="image" src="https://github.com/user-attachments/assets/1891db36-b4f1-417b-9879-42cae8f5ec59" />
+
+---
+
+## 🔹 Objective
+To establish secure communication between a cloud platform and an IoT device using a connection string.
+
+---
+
+## 🔹 Technologies Used
+- Microsoft Azure  
+- Azure IoT Hub  
+- Raspberry Pi Simulator  
+
+---
+
+## 🔹 Key Steps
+- Created a Resource Group  
+- Created and configured IoT Hub  
+- Enabled Defender for IoT  
+- Retrieved connection string  
+- Connected Raspberry Pi simulator  
+
+---
+
+## 🔹 Output
+The LED (bulb) started blinking after successful connection, confirming communication between the device and Azure IoT Hub.
+
+---
+
+## 🔹 Conclusion
+This project demonstrates how IoT devices can securely connect to cloud platforms and be controlled remotely.
+
+---
+
+👉 See detailed steps with screenshots: [steps.md](steps.md)
