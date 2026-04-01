@@ -37,4 +37,4 @@ This project demonstrates how IoT devices can securely connect to cloud platform
 
 ---
 
-👉 See detailed steps with screenshots: [steps.md](steps.md)
+👉 See detailed steps with screenshots: [steps.md][(steps.md)](https://github.com/khemPaneru/Azure-IoT-Hub-Project/blob/main/IoT-HUB.md)
