@@ -43,4 +43,4 @@ This project demonstrates how IoT devices can securely connect to cloud platform
 ---
 
 👉 See detailed steps with screenshots: [(steps.md)](https://github.com/khemPaneru/Azure-IoT-Hub-Project/blob/main/IoT-HUB.md) 
-**Raspberry Pi** is a small, low-cost computer that can be used to learn programming, build projects, and control electronic devices. It is widely used in IoT projects, automation, and education because it is affordable and easy to use.
+
